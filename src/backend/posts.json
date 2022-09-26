@@ -1,0 +1,75 @@
+[
+  {
+    "postId": 1,
+    "author": {
+      "urlAvatar": "https://github.com/diego3g.png",
+      "name": "Diego",
+      "role": "Web Developer"
+    },
+    "publishedAt": "2022-09-15T12:34:56.78-0330",
+    "content": {
+      "paragraph": "Fala Dev, acabei de subir mais um projeto no meu portfólio, dá uma olhada lá no repositório do Git.",
+      "links": [
+        { "id": 1, "link": "www.github.com/AlexandreDev" },
+        { "id": 2, "link": "www.github.com/Alexander" }
+      ],
+      "hashtags": [
+        { "id": 1, "hashtag": "#novoProjetoAlexandre" },
+        { "id": 2, "hashtag": "#nlw" },
+        { "id": 3, "hashtag": "#RocketSeat" }
+      ]
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author": {
+          "urlAvatar": "https://github.com/maykbrito.png",
+          "name": "Mayk Brito"
+        },
+        "publishedAtComment": "2022-09-16T12:34:56.78-0330",
+        "content": "Muito bom, parabéns!! 👏👏",
+        "likes": 21
+      },
+      {
+        "id": 2,
+        "author": {
+          "urlAvatar": "https://github.com/diego3g.png",
+          "name": "Diego"
+        },
+        "publishedAtComment": "2022-09-17T12:34:56.78-0330",
+        "content": "Muito bom, parabéns!! 👏👏",
+        "likes": 22
+      },
+      {
+        "id": 3,
+        "author": {
+          "urlAvatar": "https://github.com/maykbrito.png",
+          "name": "Mayk Brito"
+        },
+        "publishedAtComment": "2022-09-20T12:34:56.78-0330",
+        "content": "Muito bom, parabéns!! 👏👏",
+        "likes": 23
+      }
+    ]
+  },
+  {
+    "postId": 2,
+    "author": {
+      "urlAvatar": "https://github.com/diego3g.png",
+      "name": "Diego",
+      "role": "Web Developer"
+    },
+    "publishedAt": "2022-09-22T12:34:56.78-0330",
+    "content": {
+      "paragraph": "Fala Dev, acabei de subir mais um projeto no meu portfólio, dá uma olhada lá no repositório do Git.",
+      "links": [
+        { "id": 1, "link": "www.github.com/Diego3G" },
+        { "id": 2, "link": "www.github.com/Diego" }
+      ],
+      "hashtags": [
+        { "id": 1, "hashtag": "#novoProjetoDiego" },
+        { "id": 3, "hashtag": "#RocketSeat" }
+      ]
+    }
+  }
+]
